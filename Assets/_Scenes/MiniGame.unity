@@ -851,6 +851,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   countText: {fileID: 1759992219}
+  winText: {fileID: 933603907}
 --- !u!135 &1165970138
 SphereCollider:
   m_ObjectHideFlags: 0
